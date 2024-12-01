@@ -342,6 +342,7 @@ scientist/c1a3_sci_silo2a.wav,#c1a3_sci_silo2a,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a3_sci_team.wav,#c1a3_sci_team,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a3_sci_thankgod.wav,#c1a3_sci_thankgod,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a4_sci_blind.wav,#c1a4_sci_blind,Gray,,#HalfLife_Scientist,,,C
+scientist/c1a4_dying.wav,#c1a4_dying,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a4_sci_gener.wav,#c1a4_sci_gener,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a4_sci_pwr.wav,#c1a4_sci_pwr,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a4_sci_pwroff.wav,#c1a4_sci_pwroff,Gray,,#HalfLife_Scientist,,,C
@@ -700,21 +701,38 @@ barney/c1a0_ba_hevyes.wav,#c1a0_ba_hevyes,Blue,,#HalfLife_Security,,,C
 barney/c1a0_ba_late.wav,#c1a0_ba_late,Blue,,#HalfLife_Security,,,C
 barney/c1a1_ba_glad.wav,#c1a1_ba_glad,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_bullsquid.wav,#c1a2_ba_bullsquid,Blue,,#HalfLife_Security,,,C
+barney/c1a2_ba_2zomb.wav,#c1a2_ba_2zomb,Blue,,#HalfLife_Security,,,C
+barney/c1a2_ba_4zomb.wav,#c1a2_ba_4zomb,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_climb.wav,#c1a2_ba_climb,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_slew.wav,#c1a2_ba_slew,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_surface.wav,#c1a2_ba_surface,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_top.wav,#c1a2_ba_top,Blue,,#HalfLife_Security,,,C
-barney/c1a4_ba_octo1.wav,#c1a4_ba_octo1,Blue,,#HalfLife_Security,,,C
 barney/c1a4_ba_wisp.wav,#c1a4_ba_wisp,Blue,,#HalfLife_Security,,,C
+barney/c1a4_ba_octo1.wav,#c1a4_ba_octo1,Blue,,#HalfLife_Security,,,C
+barney/c1a4_ba_octo4.wav,#c1a4_ba_octo4,Blue,,#HalfLife_Security,,,C
+barney/c1a4_ba_octo3.wav,#c1a4_ba_octo3,Blue,,#HalfLife_Security,,,C
 barney/c2a1_ba_hub1a.wav,#c2a1_ba_hub1a,Blue,,#HalfLife_Security,,,C
 barney/c2a1_ba_hub2a.wav,#c2a1_ba_hub2a,Blue,,#HalfLife_Security,,,C
+barney/c2a1_ba_again.wav,#c2a1_ba_again,Blue,,#HalfLife_Security,,,C
 barney/c2a2_ba_launch.wav,#c2a2_ba_launch,Blue,,#HalfLife_Security,,,C
 barney/c2a3_ba_assn.wav,#c2a3_ba_assn,Blue,,#HalfLife_Security,,,C
+barney/c2a4_ba_longnite.wav,#c2a4_ba_teach,Blue,,#HalfLife_Security,,,C
+barney/c2a4_ba_steril.wav,#c2a4_ba_arg1a,Blue,,#HalfLife_Security,,,C
+barney/c2a4_ba_teach.wav,#c2a4_ba_arg3a,Blue,,#HalfLife_Security,,,C
+barney/c2a4_ba_arg1a.wav,#c2a4_ba_arg5a,Blue,,#HalfLife_Security,,,C
+barney/c2a4_ba_arg3a.wav,#c2a4_ba_longnite,Blue,,#HalfLife_Security,,,C
+barney/c2a4_ba_arg5a.wav,#c2a4_ba_steril,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_1tau.wav,#c2a4_ba_1tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_3tau.wav,#c2a4_ba_3tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_5tau.wav,#c2a4_ba_5tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_alive.wav,#c2a4_ba_alive,Blue,,#HalfLife_Security,,,C
+barney/c2a5_ba_letout.wav,#c2a5_ba_letout,Blue,,#HalfLife_Security,,,C
+barney/c2a5_ba_rpg.wav,#c2a5_ba_rpg,Blue,,#HalfLife_Security,,,C
 barney/c2a5_ba_helpme.wav,#c2a5_ba_helpme,Blue,,#HalfLife_Security,,,C
+barney/c2a5_ba_sniped.wav,#c2a5_ba_sniped,Blue,,#HalfLife_Security,,,C
+barney/c3a1_ba_1sat.wav,#c3a1_ba_1sat,Blue,,#HalfLife_Security,,,C
+barney/c3a1_ba_3sat.wav,#c3a1_ba_3sat,Blue,,#HalfLife_Security,,,C
+barney/c3a1_ba_5sat.wav,#c3a1_ba_5sat,Blue,,#HalfLife_Security,,,C
 barney/c3a2_ba_2surv.wav,#c3a2_ba_2surv,Blue,,#HalfLife_Security,,,C
 barney/c3a2_ba_4surv.wav,#c3a2_ba_4surv,Blue,,#HalfLife_Security,,,C
 barney/c3a2_ba_6surv.wav,#c3a2_ba_6surv,Blue,,#HalfLife_Security,,,C
@@ -771,8 +789,8 @@ barney/nope.wav,#nope,Blue,,#HalfLife_Security,,,C
 barney/nosir.wav,#nosir,Blue,,#HalfLife_Security,,,C
 barney/notelling.wav,#notelling,Blue,,#HalfLife_Security,,,C
 barney/noway.wav,#noway,Blue,,#HalfLife_Security,,,C
-BA_ATTACK0,#openfire(e50),Blue,,#HalfLife_Security,,,C
-BA_ATTACK1,#openfire(s50),Blue,,#HalfLife_Security,,,C
+barney/openfire(e50),#openfire(e50),Blue,,#HalfLife_Security,,,C
+barney/openfire(s50),#openfire(s50),Blue,,#HalfLife_Security,,,C
 barney/realbadwound.wav,#realbadwound,Blue,,#HalfLife_Security,,,C
 barney/rightway.wav,#rightway,Blue,,#HalfLife_Security,,,C
 barney/seeya.wav,#seeya,Blue,,#HalfLife_Security,,,C
@@ -967,6 +985,9 @@ holo/tr_holo_injury.wav,#tr_holo_injury,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_leadguard.wav,#tr_holo_leadguard,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_usetrain.wav,#tr_holo_usetrain,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_done.wav,#tr_holo_done,Orange,,#HalfLife_Hologram,,,C
+holo/tr_ba_lightson.wav,#tr_ba_lightson,Blue,,#HalfLife_Security,,,C
+holo/tr_ba_use.wav,#tr_ba_use,Blue,,#HalfLife_Security,,,C
+holo/tr_ba_unuse.wav,#holo/tr_ba_unuse,Blue,,#HalfLife_Security,,,C
 nihilanth/nil_thieves.wav,#nil_thieves,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
 nihilanth/nil_comes.wav,#nil_comes,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
 nihilanth/nil_done.wav,#nil_done,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
