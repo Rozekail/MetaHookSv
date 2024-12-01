@@ -626,6 +626,12 @@ scientist/survival.wav,#survival,Gray,,#HalfLife_Scientist,,,C
 scientist/thatsodd.wav,#thatsodd,Gray,,#HalfLife_Scientist,,,C
 scientist/theoretically.wav,#theoretically,Gray,,#HalfLife_Scientist,,,C
 scientist/thiswillhelp.wav,#thiswillhelp,Gray,,#HalfLife_Scientist,,,C
+scientist/tr_sci1_sensors.wav,#tr_sci1_sensors,Gray,,#HalfLife_Scientist,,,C
+scientist/tr_sci2_veryinteresting.wav,#tr_sci2_veryinteresting,Gray,,#HalfLife_Scientist,,,C
+scientist/tr_sci3_welcome.wav,#tr_sci3_welcome,Gray,,#HalfLife_Scientist,,,C
+scientist/tr_sci4_legal.wav,#tr_sci4_legal,Gray,,#HalfLife_Scientist,,,C
+scientist/tr_sci5_questions.wav,#tr_sci5_questions,Gray,,#HalfLife_Scientist,,,C
+scientist/tr_sci6_holograph.wav,#tr_sci6_holograph,Gray,,#HalfLife_Scientist,,,C
 scientist/tunedtoday.wav,#tunedtoday,Gray,,#HalfLife_Scientist,,,C
 scientist/tunnelcalc.wav,#tunnelcalc,Gray,,#HalfLife_Scientist,,,C
 scientist/uselessphd.wav,#uselessphd,Gray,,#HalfLife_Scientist,,,C
@@ -737,6 +743,8 @@ barney/hearsomething.wav,#hearsomething,Blue,,#HalfLife_Security,,,C
 barney/hearsomething2.wav,#hearsomething2,Blue,,#HalfLife_Security,,,C
 barney/hellonicesuit.wav,#hellonicesuit,Blue,,#HalfLife_Security,,,C
 barney/helpothers.wav,#helpothers,Blue,,#HalfLife_Security,,,C
+barney/haybuddy.wav,#haybuddy,Blue,,#HalfLife_Security,,,C
+barney/hayfella.wav,#hayfella,Blue,,#HalfLife_Security,,,C
 barney/heybuddy.wav,#heybuddy,Blue,,#HalfLife_Security,,,C
 barney/heyfella.wav,#heyfella,Blue,,#HalfLife_Security,,,C
 barney/hitbad.wav,#hitbad,Blue,,#HalfLife_Security,,,C
@@ -763,7 +771,8 @@ barney/nope.wav,#nope,Blue,,#HalfLife_Security,,,C
 barney/nosir.wav,#nosir,Blue,,#HalfLife_Security,,,C
 barney/notelling.wav,#notelling,Blue,,#HalfLife_Security,,,C
 barney/noway.wav,#noway,Blue,,#HalfLife_Security,,,C
-barney/openfire.wav,#openfire,Blue,,#HalfLife_Security,,,C
+BA_ATTACK0,#openfire(e50),Blue,,#HalfLife_Security,,,C
+BA_ATTACK1,#openfire(s50),Blue,,#HalfLife_Security,,,C
 barney/realbadwound.wav,#realbadwound,Blue,,#HalfLife_Security,,,C
 barney/rightway.wav,#rightway,Blue,,#HalfLife_Security,,,C
 barney/seeya.wav,#seeya,Blue,,#HalfLife_Security,,,C
