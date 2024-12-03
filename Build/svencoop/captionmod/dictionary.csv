@@ -367,7 +367,6 @@ HEV_DET5,#HEV_DET5,Orange,,#HalfLife_HEV_Voice,,,C
 HEV_GR0r,#HEV_GR0r,Orange,,#HalfLife_HEV_Voice,,,C
 HEV_GR1r,#HEV_GR1r,Orange,,#HalfLife_HEV_Voice,,,C
 HEV_GR2r,#HEV_GR2r,Orange,,#HalfLife_HEV_Voice,,,C
-
 holo/tr_sci_goodwork.wav,#tr_sci_goodwork,Gray,,#HalfLife_Scientist,,,C
 holo/tr_sci_hardlynoticed.wav,#tr_sci_hardlynoticed,Gray,,#HalfLife_Scientist,,,C
 holo/tr_sci_nextstation.wav,#tr_sci_nextstation,Gray,,#HalfLife_Scientist,,,C
@@ -770,7 +769,7 @@ scientist/youlookbad.wav,#youlookbad,Gray,,#HalfLife_Scientist,,,C
 scientist/youlookbad2.wav,#youlookbad2,Gray,,#HalfLife_Scientist,,,C
 scientist/youneedmedic.wav,#scientistyouneedmedic,Gray,,#HalfLife_Scientist,,,C
 scientist/youwounded.wav,#youwounded,Gray,,#HalfLife_Scientist,,,C
-barney/aimforhead,#aimforhead,Blue,,#HalfLife_Security,,,C
+barney/aimforhead.wav,#aimforhead,Blue,,#HalfLife_Security,,,C
 barney/aintgoin.wav,#aintgoin,Blue,,#HalfLife_Security,,,C
 barney/aintscared.wav,#aintscared,Blue,,#HalfLife_Security,,,C
 barney/alreadyasked.wav,#alreadyasked,Blue,,#HalfLife_Security,,,C
@@ -870,12 +869,12 @@ barney/gladof38.wav,#gladof38,Blue,,#HalfLife_Security,,,C
 barney/gladtolendhand.wav,#gladtolendhand,Blue,,#HalfLife_Security,,,C
 barney/guyresponsible.wav,#guyresponsible,Blue,,#HalfLife_Security,,,C
 barney/hardtosay.wav,#hardtosay,Blue,,#HalfLife_Security,,,C
+barney/haybuddy.wav,#haybuddy,Blue,,#HalfLife_Security,,,C
+barney/hayfella.wav,#hayfella,Blue,,#HalfLife_Security,,,C
 barney/hearsomething.wav,#hearsomething,Blue,,#HalfLife_Security,,,C
 barney/hearsomething2.wav,#hearsomething2,Blue,,#HalfLife_Security,,,C
 barney/hellonicesuit.wav,#hellonicesuit,Blue,,#HalfLife_Security,,,C
 barney/helpothers.wav,#helpothers,Blue,,#HalfLife_Security,,,C
-barney/haybuddy.wav,#haybuddy,Blue,,#HalfLife_Security,,,C
-barney/hayfella.wav,#hayfella,Blue,,#HalfLife_Security,,,C
 barney/heybuddy.wav,#heybuddy,Blue,,#HalfLife_Security,,,C
 barney/heyfella.wav,#heyfella,Blue,,#HalfLife_Security,,,C
 barney/hitbad.wav,#hitbad,Blue,,#HalfLife_Security,,,C
