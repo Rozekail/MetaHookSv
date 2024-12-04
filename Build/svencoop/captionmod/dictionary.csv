@@ -379,7 +379,7 @@ scientist/absolutelynot.wav,#absolutelynot,Gray,,#HalfLife_Scientist,,,C
 scientist/administrator.wav,#administrator,Gray,,#HalfLife_Scientist,,,C
 scientist/afellowsci.wav,#afellowsci,Gray,,#HalfLife_Scientist,,,C
 scientist/ahfreeman.wav,#ahfreeman,Gray,,#HalfLife_Scientist,,,C
-scientist/alienapeal.wav,#alienapeal,Gray,,#HalfLife_Scientist,,,C
+scientist/alienappeal.wav,#alienappeal,Gray,,#HalfLife_Scientist,,,C
 scientist/alientrick.wav,#alientrick,Gray,,#HalfLife_Scientist,,,C
 scientist/allnominal.wav,#allnominal,Gray,,#HalfLife_Scientist,,,C
 scientist/alright.wav,#alright,Gray,,#HalfLife_Scientist,,,C
@@ -712,7 +712,7 @@ scientist/shutdownchart.wav,#shutdownchart,Gray,,#HalfLife_Scientist,,,C
 scientist/shutup.wav,#shutup,Gray,,#HalfLife_Scientist,,,C
 scientist/shutup2.wav,#shutup2,Gray,,#HalfLife_Scientist,,,C
 scientist/simulation.wav,#simulation,Gray,,#HalfLife_Scientist,,,C
-scientist/slowingyou.wav,#slowingyou,Gray,,#HalfLife_Scientist,,,C
+scientist/slowingyou.wav,#scientistslowingyou,Gray,,#HalfLife_Scientist,,,C
 scientist/smellburn.wav,#smellburn,Gray,,#HalfLife_Scientist,,,C
 scientist/softethics.wav,#softethics,Gray,,#HalfLife_Scientist,,,C
 scientist/sorryimleaving.wav,#sorryimleaving,Gray,,#HalfLife_Scientist,,,C
@@ -749,6 +749,7 @@ scientist/tunedtoday.wav,#tunedtoday,Gray,,#HalfLife_Scientist,,,C
 scientist/tunnelcalc.wav,#tunnelcalc,Gray,,#HalfLife_Scientist,,,C
 scientist/uselessphd.wav,#uselessphd,Gray,,#HalfLife_Scientist,,,C
 scientist/ushouldsee.wav,#ushouldsee,Gray,,#HalfLife_Scientist,,,C
+scientist/waithere.wav,#waithere,Gray,,#HalfLife_Scientist,,,C
 scientist/weartie.wav,#weartie,Gray,,#HalfLife_Scientist,,,C
 scientist/whatissound.wav,#whatissound,Gray,,#HalfLife_Scientist,,,C
 scientist/whatnext.wav,#whatnext,Gray,,#HalfLife_Scientist,,,C
@@ -873,7 +874,7 @@ barney/guyresponsible.wav,#guyresponsible,Blue,,#HalfLife_Security,,,C
 barney/hardtosay.wav,#hardtosay,Blue,,#HalfLife_Security,,,C
 barney/haybuddy.wav,#haybuddy,Blue,,#HalfLife_Security,,,C
 barney/hayfella.wav,#hayfella,Blue,,#HalfLife_Security,,,C
-barney/hearsomething.wav,#hearsomething,Blue,,#HalfLife_Security,,,C
+barney/hearsomething.wav,#barneyhearsomething,Blue,,#HalfLife_Security,,,C
 barney/hearsomething2.wav,#hearsomething2,Blue,,#HalfLife_Security,,,C
 barney/hellonicesuit.wav,#hellonicesuit,Blue,,#HalfLife_Security,,,C
 barney/helpothers.wav,#helpothers,Blue,,#HalfLife_Security,,,C
@@ -884,7 +885,7 @@ barney/howdy.wav,#howdy,Blue,,#HalfLife_Security,,,C
 barney/howyoudoing.wav,#howyoudoing,Blue,,#HalfLife_Security,,,C
 barney/icanhear.wav,#icanhear,Blue,,#HalfLife_Security,,,C
 barney/iguess.wav,#iguess,Blue,,#HalfLife_Security,,,C
-barney/illwait.wav,#illwait,Blue,,#HalfLife_Security,,,C
+barney/illwait.wav,#barneyillwait,Blue,,#HalfLife_Security,,,C
 barney/imdead.wav,#imdead,Blue,,#HalfLife_Security,,,C
 barney/imhit.wav,#imhit,Blue,,#HalfLife_Security,,,C
 barney/imwithyou.wav,#imwithyou,Blue,,#HalfLife_Security,,,C
@@ -908,7 +909,7 @@ barney/openfire(s50),#openfire(s50),Blue,,#HalfLife_Security,,,C
 barney/realbadwound.wav,#realbadwound,Blue,,#HalfLife_Security,,,C
 barney/rightway.wav,#rightway,Blue,,#HalfLife_Security,,,C
 barney/seeya.wav,#seeya,Blue,,#HalfLife_Security,,,C
-barney/slowingyoudown.wav,#slowingyoudown,Blue,,#HalfLife_Security,,,C
+barney/slowingyoudown.wav,#barneyslowingyou,Blue,,#HalfLife_Security,,,C
 barney/somethingdied.wav,#somethingdied,Blue,,#HalfLife_Security,,,C
 barney/somethingmoves.wav,#somethingmoves,Blue,,#HalfLife_Security,,,C
 barney/somethingstinky.wav,#somethingstinky,Blue,,#HalfLife_Security,,,C
@@ -917,8 +918,8 @@ barney/soundsright.wav,#soundsright,Blue,,#HalfLife_Security,,,C
 barney/standback.wav,#standback,Blue,,#HalfLife_Security,,,C
 barney/standguard.wav,#standguard,Blue,,#HalfLife_Security,,,C
 barney/stench.wav,#stench,Blue,,#HalfLife_Security,,,C
-barney/stop1.wav,#stop1,Blue,,#HalfLife_Security,,,C
-barney/stop2.wav,#stop2,Blue,,#HalfLife_Security,,,C
+barney/stop1.wav,#barneystop1,Blue,,#HalfLife_Security,,,C
+barney/stop2.wav,#barneystop2,Blue,,#HalfLife_Security,,,C
 barney/stophere.wav,#stophere,Blue,,#HalfLife_Security,,,C
 barney/survive.wav,#survive,Blue,,#HalfLife_Security,,,C
 barney/targetpractice.wav,#targetpractice,Blue,,#HalfLife_Security,,,C
