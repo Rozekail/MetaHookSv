@@ -59,7 +59,7 @@ HZSCIENTIST,#HZSCIENTIST,,,,,,
 HZBARNEY,#HZBARNEY,,,,,,
 HZTRAIN,#HZTRAIN,,,,,,
 HZDONE,#HZDONE,,,,,,
-C1A0_START,#C1A0_START,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
+C1A0_START,#C1A0_START,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 						//Added missing vox line, may be unused
 C1A0_0,#C1A0_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C1A0_1,#C1A0_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C1A0_2,#C1A0_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
@@ -109,51 +109,51 @@ C1A3_10,#C1A3_10,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C1A3_warn,#C1A3_warn,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C1A3_lock,#C1A3_lock,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 POWER_OFF,#POWER_OFF,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_0,#C1A4_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_1,#C1A4_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_2,#C1A4_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_3,#C1A4_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_4,#C1A4_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_5,#C1A4_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_6,#C1A4_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_7,#C1A4_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C1A4_8,#C1A4_8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-FUEL_OFF,#FUEL_OFF,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_0,#C2A1_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_1,#C2A1_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_2,#C2A1_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_3,#C2A1_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_4,#C2A1_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_5,#C2A1_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_6,#C2A1_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_7,#C2A1_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A1_8,#C2A1_8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_0,#C2A2_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_1,#C2A2_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_2,#C2A2_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_3,#C2A2_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_3,#C2A2_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_4,#C2A2_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_5,#C2A2_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_6,#C2A2_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_7,#C2A2_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A2_launch,#C2A2_launch,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A4_0,#C2A4_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_1,#C2A4_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_2,#C2A4_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_3,#C2A4_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_4,#C2A4_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_5,#C2A4_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_6,#C2A4_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_7,#C2A4_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_8,#C2A4_8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_9,#C2A4_9,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 
-C2A4_10,#C2A4_10,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A4_11,#C2A4_11,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A4_12,#C2A4_12,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C2A4_ster,#C2A4_ster,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
+C1A4_0,#C1A4_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_1,#C1A4_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_2,#C1A4_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_3,#C1A4_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_4,#C1A4_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_5,#C1A4_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_6,#C1A4_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_7,#C1A4_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C1A4_8,#C1A4_8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+FUEL_OFF,#FUEL_OFF,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT       						//Added missing vox line, may be unused
+C2A1_0,#C2A1_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_1,#C2A1_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_2,#C2A1_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_3,#C2A1_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_4,#C2A1_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_5,#C2A1_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_6,#C2A1_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_7,#C2A1_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A1_8,#C2A1_8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_0,#C2A2_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_1,#C2A2_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_2,#C2A2_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_3,#C2A2_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_3,#C2A2_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_4,#C2A2_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_5,#C2A2_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_6,#C2A2_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_7,#C2A2_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A2_launch,#C2A2_launch,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 						//Added missing vox line, may be unused
+C2A4_0,#C2A4_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_1,#C2A4_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_2,#C2A4_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_3,#C2A4_3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_4,#C2A4_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_5,#C2A4_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_6,#C2A4_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_7,#C2A4_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_8,#C2A4_8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_9,#C2A4_9,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT           						//Added missing vox line, may be unused
+C2A4_10,#C2A4_10,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT         						//Added missing vox line, may be unused
+C2A4_11,#C2A4_11,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT         						//Added missing vox line, may be unused
+C2A4_12,#C2A4_12,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT         						//Added missing vox line, may be unused
+C2A4_ster,#C2A4_ster,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT     						//Added missing vox line, may be unused
 C3A1_8,#C3A1_8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C3A1_9,#C3A1_9,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
+C3A1_9,#C3A1_9,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 								//Added missing vox line, may be unused
 C3A2_0,#C3A2_0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C3A2_1,#C3A2_1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C3A2_2,#C3A2_2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
@@ -162,9 +162,9 @@ C3A2_4,#C3A2_4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C3A2_5,#C3A2_5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C3A2_6,#C3A2_6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C3A2_7,#C3A2_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C3A2_target,#C3A2_target,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C3A2_portal,#C3A2_portal,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-C3A2_core,#C3A2_core,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
+C3A2_target,#C3A2_target,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 						//Added missing vox line, may be unused
+C3A2_portal,#C3A2_portal,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 						//Added missing vox line, may be unused
+C3A2_core,#C3A2_core,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 							//Added missing vox line, may be unused
 NA0,#NA0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 NA1,#NA1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 NA2,#NA2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
@@ -218,10 +218,10 @@ NFIRE0,#NFIRE0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 EFIRE0,#EFIRE0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 NCHEM0,#NCHEM0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 ECHEM0,#ECHEM0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-NRAD0,#NRAD0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-ERAD0,#ERAD0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-NCON0,#NCON0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
-ECON0,#ECON0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
+NRAD0,#NRAD0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 									//Added missing vox line, may be unused
+ERAD0,#ERAD0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 									//Added missing vox line, may be unused
+NCON0,#NCON0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 									//Added missing vox line, may be unused
+ECON0,#ECON0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 									//Added missing vox line, may be unused
 NG0,#NG0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 NG1,#NG1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 NG2,#NG2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
@@ -265,21 +265,20 @@ HEV_A5,#HEV_A5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_A6,#HEV_A6,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_A7,#HEV_A7,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_A8,#HEV_A8,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_A9,#HEV_A9,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_A9,#HEV_A9,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT 								//Added missing HEV line, may be unused
 HEV_A10,#HEV_A10,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_MED0,#HEV_MED0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_MED1,#HEV_MED1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_MED2,#HEV_MED2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL0,#HEV_HEAL0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL1,#HEV_HEAL1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL2,#HEV_HEAL2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL3,#HEV_HEAL3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL4,#HEV_HEAL4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL5,#HEV_HEAL5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL6,#HEV_HEAL6,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_MED0,#HEV_MED0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT    						//Added missing HEV line, may be unused
+HEV_MED1,#HEV_MED1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT    						//Added missing HEV line, may be unused
+HEV_MED2,#HEV_MED2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT    						//Added missing HEV line, may be unused
+HEV_HEAL0,#HEV_HEAL0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  						//Added missing HEV line, may be unused
+HEV_HEAL1,#HEV_HEAL1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  						//Added missing HEV line, may be unused
+HEV_HEAL2,#HEV_HEAL2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  						//Added missing HEV line, may be unused
+HEV_HEAL3,#HEV_HEAL3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  						//Added missing HEV line, may be unused
+HEV_HEAL4,#HEV_HEAL4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  						//Added missing HEV line, may be unused
+HEV_HEAL5,#HEV_HEAL5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  						//Added missing HEV line, may be unused
+HEV_HEAL6,#HEV_HEAL6,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  						//Added missing HEV line, may be unused
 HEV_HEAL7,#HEV_HEAL7,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL8,#HEV_HEAL8,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HEAL7,#HEV_HEAL7,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_HEAL8,#HEV_HEAL8,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT 						//Added missing HEV line, may be unused
 HEV_DMG0,#HEV_DMG0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DMG1,#HEV_DMG1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DMG2,#HEV_DMG2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
@@ -288,7 +287,7 @@ HEV_DMG4,#HEV_DMG4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DMG5,#HEV_DMG5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DMG6,#HEV_DMG6,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DMG7,#HEV_DMG7,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HLTH0,#HEV_HLTH0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_HLTH0,#HEV_HLTH0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT 						//Added missing HEV line, may be unused
 HEV_HLTH1,#HEV_HLTH1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_HLTH2,#HEV_HLTH2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_HLTH3,#HEV_HLTH3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
@@ -300,8 +299,8 @@ HEV_FIRE,#HEV_FIRE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DET2,#HEV_DET2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DET1,#HEV_DET1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DET0,#HEV_DET0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_D00,#HEV_D00,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_D01,#HEV_D01,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_D00,#HEV_D00,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT 							//Added missing HEV line, may be unused
+HEV_D01,#HEV_D01,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT 							//Added missing HEV line, may be unused
 HEV_0P,#HEV_0P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_1P,#HEV_1P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_2P,#HEV_2P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
@@ -323,50 +322,50 @@ HEV_17P,#HEV_17P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_18P,#HEV_18P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_19P,#HEV_19P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_AMO0,#HEV_AMO0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_AIM_ON,#HEV_AIM_ON,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_AIM_OFF,#HEV_AIM_OFF,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_BATTERY,#HEV_BATTERY,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_MEDKIT,#HEV_MEDKIT,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_PISTOL,#HEV_PISTOL,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_SHOTGUN,#HEV_SHOTGUN,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_GRENADE,#HEV_GRENADE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_ASSAULT,#HEV_ASSAULT,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_44PISTOL,#HEV_44PISTOL,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_RPG,#HEV_RPG,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_SATCHEL,#HEV_SATCHEL,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_TRIPMINE,#HEV_TRIPMINE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_HORNET,#HEV_HORNET,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_SQUEEK,#HEV_SQUEEK,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_EGON,#HEV_EGON,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_GAUSS,#HEV_GAUSS,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_XBOW,#HEV_XBOW,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_9MM,#HEV_9MM,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_44AMMO,#HEV_44AMMO,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_BUCKSHOT,#HEV_BUCKSHOT,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_BOLTS,#HEV_BOLTS,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_RPGAMMO,#HEV_RPGAMMO,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_AGRENADE,#HEV_AGRENADE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_EGONPOWER,#HEV_EGONPOWER,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_C1t,#HEV_C1t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_C13t,#HEV_C13t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_V0,#HEV_V0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_V1,#HEV_V1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_E0,#HEV_E0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_E1,#HEV_E1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_E2,#HEV_E2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_E3,#HEV_E3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_E4,#HEV_E4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_E5,#HEV_E5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_F10t,#HEV_F10t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_F15t,#HEV_F15t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_F20t,#HEV_F20t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_F30t,#HEV_F30t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_DET3,#HEV_DET3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_DET4,#HEV_DET4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_DET5,#HEV_DET5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_GR0r,#HEV_GR0r,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_GR1r,#HEV_GR1r,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_GR2r,#HEV_GR2r,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_AIM_ON,#HEV_AIM_ON,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT        				//Added missing HEV line, may be unused
+HEV_AIM_OFF,#HEV_AIM_OFF,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT      				//Added missing HEV line, may be unused
+HEV_BATTERY,#HEV_BATTERY,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT      				//Added missing HEV line, may be unused
+HEV_MEDKIT,#HEV_MEDKIT,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT        				//Added missing HEV line, may be unused
+HEV_PISTOL,#HEV_PISTOL,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT        				//Added missing HEV line, may be unused
+HEV_SHOTGUN,#HEV_SHOTGUN,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT      				//Added missing HEV line, may be unused
+HEV_GRENADE,#HEV_GRENADE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT      				//Added missing HEV line, may be unused
+HEV_ASSAULT,#HEV_ASSAULT,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT      				//Added missing HEV line, may be unused
+HEV_44PISTOL,#HEV_44PISTOL,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT    				//Added missing HEV line, may be unused
+HEV_RPG,#HEV_RPG,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT              				//Added missing HEV line, may be unused
+HEV_SATCHEL,#HEV_SATCHEL,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT      				//Added missing HEV line, may be unused
+HEV_TRIPMINE,#HEV_TRIPMINE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT    				//Added missing HEV line, may be unused
+HEV_HORNET,#HEV_HORNET,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT        				//Added missing HEV line, may be unused
+HEV_SQUEEK,#HEV_SQUEEK,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT        				//Added missing HEV line, may be unused
+HEV_EGON,#HEV_EGON,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_GAUSS,#HEV_GAUSS,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT          				//Added missing HEV line, may be unused
+HEV_XBOW,#HEV_XBOW,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_9MM,#HEV_9MM,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT              				//Added missing HEV line, may be unused
+HEV_44AMMO,#HEV_44AMMO,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT        				//Added missing HEV line, may be unused
+HEV_BUCKSHOT,#HEV_BUCKSHOT,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT    				//Added missing HEV line, may be unused
+HEV_BOLTS,#HEV_BOLTS,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT          				//Added missing HEV line, may be unused
+HEV_RPGAMMO,#HEV_RPGAMMO,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT      				//Added missing HEV line, may be unused
+HEV_AGRENADE,#HEV_AGRENADE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT    				//Added missing HEV line, may be unused
+HEV_EGONPOWER,#HEV_EGONPOWER,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT  				//Added missing HEV line, may be unused
+HEV_C1t,#HEV_C1t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT              				//Added missing HEV line, may be unused
+HEV_C13t,#HEV_C13t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_V0,#HEV_V0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_V1,#HEV_V1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_E0,#HEV_E0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_E1,#HEV_E1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_E2,#HEV_E2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_E3,#HEV_E3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_E4,#HEV_E4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_E5,#HEV_E5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT                				//Added missing HEV line, may be unused
+HEV_F10t,#HEV_F10t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_F15t,#HEV_F15t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_F20t,#HEV_F20t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_F30t,#HEV_F30t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_DET3,#HEV_DET3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_DET4,#HEV_DET4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_DET5,#HEV_DET5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_GR0r,#HEV_GR0r,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_GR1r,#HEV_GR1r,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
+HEV_GR2r,#HEV_GR2r,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT            				//Added missing HEV line, may be unused
 holo/tr_sci_goodwork.wav,#tr_sci_goodwork,Gray,,#HalfLife_Scientist,,,C
 holo/tr_sci_hardlynoticed.wav,#tr_sci_hardlynoticed,Gray,,#HalfLife_Scientist,,,C
 holo/tr_sci_nextstation.wav,#tr_sci_nextstation,Gray,,#HalfLife_Scientist,,,C
@@ -379,7 +378,7 @@ scientist/absolutelynot.wav,#absolutelynot,Gray,,#HalfLife_Scientist,,,C
 scientist/administrator.wav,#administrator,Gray,,#HalfLife_Scientist,,,C
 scientist/afellowsci.wav,#afellowsci,Gray,,#HalfLife_Scientist,,,C
 scientist/ahfreeman.wav,#ahfreeman,Gray,,#HalfLife_Scientist,,,C
-scientist/alienappeal.wav,#alienappeal,Gray,,#HalfLife_Scientist,,,C
+scientist/alienappeal.wav,#alienappeal,Gray,,#HalfLife_Scientist,,,C 							//Changed apeal to appeal
 scientist/alientrick.wav,#alientrick,Gray,,#HalfLife_Scientist,,,C
 scientist/allnominal.wav,#allnominal,Gray,,#HalfLife_Scientist,,,C
 scientist/alright.wav,#alright,Gray,,#HalfLife_Scientist,,,C
@@ -712,7 +711,7 @@ scientist/shutdownchart.wav,#shutdownchart,Gray,,#HalfLife_Scientist,,,C
 scientist/shutup.wav,#shutup,Gray,,#HalfLife_Scientist,,,C
 scientist/shutup2.wav,#shutup2,Gray,,#HalfLife_Scientist,,,C
 scientist/simulation.wav,#simulation,Gray,,#HalfLife_Scientist,,,C
-scientist/slowingyou.wav,#scientistslowingyou,Gray,,#HalfLife_Scientist,,,C
+scientist/slowingyou.wav,#scientistslowingyou,Gray,,#HalfLife_Scientist,,,C 					//Changed name for easier identification vs Barney's line
 scientist/smellburn.wav,#smellburn,Gray,,#HalfLife_Scientist,,,C
 scientist/softethics.wav,#softethics,Gray,,#HalfLife_Scientist,,,C
 scientist/sorryimleaving.wav,#sorryimleaving,Gray,,#HalfLife_Scientist,,,C
@@ -739,17 +738,17 @@ scientist/survival.wav,#survival,Gray,,#HalfLife_Scientist,,,C
 scientist/thatsodd.wav,#thatsodd,Gray,,#HalfLife_Scientist,,,C
 scientist/theoretically.wav,#theoretically,Gray,,#HalfLife_Scientist,,,C
 scientist/thiswillhelp.wav,#thiswillhelp,Gray,,#HalfLife_Scientist,,,C
-scientist/tr_sci1_sensors.wav,#tr_sci1_sensors,Gray,,#HalfLife_Scientist,,,C
-scientist/tr_sci2_veryinteresting.wav,#tr_sci2_veryinteresting,Gray,,#HalfLife_Scientist,,,C
-scientist/tr_sci3_welcome.wav,#tr_sci3_welcome,Gray,,#HalfLife_Scientist,,,C
-scientist/tr_sci4_legal.wav,#tr_sci4_legal,Gray,,#HalfLife_Scientist,,,C
-scientist/tr_sci5_questions.wav,#tr_sci5_questions,Gray,,#HalfLife_Scientist,,,C
-scientist/tr_sci6_holograph.wav,#tr_sci6_holograph,Gray,,#HalfLife_Scientist,,,C
+scientist/tr_sci1_sensors.wav,#tr_sci1_sensors,Gray,,#HalfLife_Scientist,,,C                 	//Added PS2 Hazard Course lines, normally unused
+scientist/tr_sci2_veryinteresting.wav,#tr_sci2_veryinteresting,Gray,,#HalfLife_Scientist,,,C 	//Added PS2 Hazard Course lines, normally unused
+scientist/tr_sci3_welcome.wav,#tr_sci3_welcome,Gray,,#HalfLife_Scientist,,,C                 	//Added PS2 Hazard Course lines, normally unused
+scientist/tr_sci4_legal.wav,#tr_sci4_legal,Gray,,#HalfLife_Scientist,,,C                     	//Added PS2 Hazard Course lines, normally unused
+scientist/tr_sci5_questions.wav,#tr_sci5_questions,Gray,,#HalfLife_Scientist,,,C             	//Added PS2 Hazard Course lines, normally unused
+scientist/tr_sci6_holograph.wav,#tr_sci6_holograph,Gray,,#HalfLife_Scientist,,,C             	//Added PS2 Hazard Course lines, normally unused
 scientist/tunedtoday.wav,#tunedtoday,Gray,,#HalfLife_Scientist,,,C
 scientist/tunnelcalc.wav,#tunnelcalc,Gray,,#HalfLife_Scientist,,,C
 scientist/uselessphd.wav,#uselessphd,Gray,,#HalfLife_Scientist,,,C
 scientist/ushouldsee.wav,#ushouldsee,Gray,,#HalfLife_Scientist,,,C
-scientist/waithere.wav,#waithere,Gray,,#HalfLife_Scientist,,,C
+scientist/waithere.wav,#waithere,Gray,,#HalfLife_Scientist,,,C //Added missing line
 scientist/weartie.wav,#weartie,Gray,,#HalfLife_Scientist,,,C
 scientist/whatissound.wav,#whatissound,Gray,,#HalfLife_Scientist,,,C
 scientist/whatnext.wav,#whatnext,Gray,,#HalfLife_Scientist,,,C
@@ -770,7 +769,7 @@ scientist/youlookbad.wav,#youlookbad,Gray,,#HalfLife_Scientist,,,C
 scientist/youlookbad2.wav,#youlookbad2,Gray,,#HalfLife_Scientist,,,C
 scientist/youneedmedic.wav,#scientistyouneedmedic,Gray,,#HalfLife_Scientist,,,C
 scientist/youwounded.wav,#youwounded,Gray,,#HalfLife_Scientist,,,C
-barney/aimforhead.wav,#aimforhead,Blue,,#HalfLife_Security,,,C
+barney/aimforhead.wav,#aimforhead,Blue,,#HalfLife_Security,,,C 									//Added missing file extension
 barney/aintgoin.wav,#aintgoin,Blue,,#HalfLife_Security,,,C
 barney/aintscared.wav,#aintscared,Blue,,#HalfLife_Security,,,C
 barney/alreadyasked.wav,#alreadyasked,Blue,,#HalfLife_Security,,,C
@@ -814,40 +813,40 @@ barney/c1a0_ba_hevyes.wav,#c1a0_ba_hevyes,Blue,,#HalfLife_Security,,,C
 barney/c1a0_ba_late.wav,#c1a0_ba_late,Blue,,#HalfLife_Security,,,C
 barney/c1a1_ba_glad.wav,#c1a1_ba_glad,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_bullsquid.wav,#c1a2_ba_bullsquid,Blue,,#HalfLife_Security,,,C
-barney/c1a2_ba_2zomb.wav,#c1a2_ba_2zomb,Blue,,#HalfLife_Security,,,C
-barney/c1a2_ba_4zomb.wav,#c1a2_ba_4zomb,Blue,,#HalfLife_Security,,,C
+barney/c1a2_ba_2zomb.wav,#c1a2_ba_2zomb,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c1a2_ba_4zomb.wav,#c1a2_ba_4zomb,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
 barney/c1a2_ba_climb.wav,#c1a2_ba_climb,Blue,,#HalfLife_Security,,,C
-barney/c1a2_ba_goforit.wav,#c1a2_ba_goforit,Blue,,#HalfLife_Security,,,C
+barney/c1a2_ba_goforit.wav,#c1a2_ba_goforit,Blue,,#HalfLife_Security,,,C 						//Added missing line, may be unused
 barney/c1a2_ba_slew.wav,#c1a2_ba_slew,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_surface.wav,#c1a2_ba_surface,Blue,,#HalfLife_Security,,,C
 barney/c1a2_ba_top.wav,#c1a2_ba_top,Blue,,#HalfLife_Security,,,C
 barney/c1a4_ba_wisp.wav,#c1a4_ba_wisp,Blue,,#HalfLife_Security,,,C
 barney/c1a4_ba_octo1.wav,#c1a4_ba_octo1,Blue,,#HalfLife_Security,,,C
-barney/c1a4_ba_octo2.wav,#c1a4_ba_octo2,Blue,,#HalfLife_Security,,,C
-barney/c1a4_ba_octo4.wav,#c1a4_ba_octo4,Blue,,#HalfLife_Security,,,C
-barney/c1a4_ba_octo3.wav,#c1a4_ba_octo3,Blue,,#HalfLife_Security,,,C
+barney/c1a4_ba_octo2.wav,#c1a4_ba_octo2,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c1a4_ba_octo4.wav,#c1a4_ba_octo4,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c1a4_ba_octo3.wav,#c1a4_ba_octo3,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
 barney/c2a1_ba_hub1a.wav,#c2a1_ba_hub1a,Blue,,#HalfLife_Security,,,C
 barney/c2a1_ba_hub2a.wav,#c2a1_ba_hub2a,Blue,,#HalfLife_Security,,,C
-barney/c2a1_ba_again.wav,#c2a1_ba_again,Blue,,#HalfLife_Security,,,C
+barney/c2a1_ba_again.wav,#c2a1_ba_again,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
 barney/c2a2_ba_launch.wav,#c2a2_ba_launch,Blue,,#HalfLife_Security,,,C
 barney/c2a3_ba_assn.wav,#c2a3_ba_assn,Blue,,#HalfLife_Security,,,C
-barney/c2a4_ba_longnite.wav,#c2a4_ba_teach,Blue,,#HalfLife_Security,,,C
-barney/c2a4_ba_steril.wav,#c2a4_ba_arg1a,Blue,,#HalfLife_Security,,,C
-barney/c2a4_ba_teach.wav,#c2a4_ba_arg3a,Blue,,#HalfLife_Security,,,C
-barney/c2a4_ba_arg1a.wav,#c2a4_ba_arg5a,Blue,,#HalfLife_Security,,,C
-barney/c2a4_ba_arg3a.wav,#c2a4_ba_longnite,Blue,,#HalfLife_Security,,,C
-barney/c2a4_ba_arg5a.wav,#c2a4_ba_steril,Blue,,#HalfLife_Security,,,C
+barney/c2a4_ba_longnite.wav,#c2a4_ba_teach,Blue,,#HalfLife_Security,,,C 						//Added missing line, may be unused
+barney/c2a4_ba_steril.wav,#c2a4_ba_arg1a,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c2a4_ba_teach.wav,#c2a4_ba_arg3a,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c2a4_ba_arg1a.wav,#c2a4_ba_arg5a,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c2a4_ba_arg3a.wav,#c2a4_ba_longnite,Blue,,#HalfLife_Security,,,C 						//Added missing line, may be unused
+barney/c2a4_ba_arg5a.wav,#c2a4_ba_steril,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
 barney/c2a4_ba_1tau.wav,#c2a4_ba_1tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_3tau.wav,#c2a4_ba_3tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_5tau.wav,#c2a4_ba_5tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_alive.wav,#c2a4_ba_alive,Blue,,#HalfLife_Security,,,C
-barney/c2a5_ba_letout.wav,#c2a5_ba_letout,Blue,,#HalfLife_Security,,,C
-barney/c2a5_ba_rpg.wav,#c2a5_ba_rpg,Blue,,#HalfLife_Security,,,C
+barney/c2a5_ba_letout.wav,#c2a5_ba_letout,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c2a5_ba_rpg.wav,#c2a5_ba_rpg,Blue,,#HalfLife_Security,,,C 								//Added missing line, may be unused
 barney/c2a5_ba_helpme.wav,#c2a5_ba_helpme,Blue,,#HalfLife_Security,,,C
-barney/c2a5_ba_sniped.wav,#c2a5_ba_sniped,Blue,,#HalfLife_Security,,,C
-barney/c3a1_ba_1sat.wav,#c3a1_ba_1sat,Blue,,#HalfLife_Security,,,C
-barney/c3a1_ba_3sat.wav,#c3a1_ba_3sat,Blue,,#HalfLife_Security,,,C
-barney/c3a1_ba_5sat.wav,#c3a1_ba_5sat,Blue,,#HalfLife_Security,,,C
+barney/c2a5_ba_sniped.wav,#c2a5_ba_sniped,Blue,,#HalfLife_Security,,,C 							//Added missing line, may be unused
+barney/c3a1_ba_1sat.wav,#c3a1_ba_1sat,Blue,,#HalfLife_Security,,,C 								//Added missing line, may be unused
+barney/c3a1_ba_3sat.wav,#c3a1_ba_3sat,Blue,,#HalfLife_Security,,,C 								//Added missing line, may be unused
+barney/c3a1_ba_5sat.wav,#c3a1_ba_5sat,Blue,,#HalfLife_Security,,,C 								//Added missing line, may be unused
 barney/c3a2_ba_2surv.wav,#c3a2_ba_2surv,Blue,,#HalfLife_Security,,,C
 barney/c3a2_ba_4surv.wav,#c3a2_ba_4surv,Blue,,#HalfLife_Security,,,C
 barney/c3a2_ba_6surv.wav,#c3a2_ba_6surv,Blue,,#HalfLife_Security,,,C
@@ -872,9 +871,9 @@ barney/gladof38.wav,#gladof38,Blue,,#HalfLife_Security,,,C
 barney/gladtolendhand.wav,#gladtolendhand,Blue,,#HalfLife_Security,,,C
 barney/guyresponsible.wav,#guyresponsible,Blue,,#HalfLife_Security,,,C
 barney/hardtosay.wav,#hardtosay,Blue,,#HalfLife_Security,,,C
-barney/haybuddy.wav,#haybuddy,Blue,,#HalfLife_Security,,,C
-barney/hayfella.wav,#hayfella,Blue,,#HalfLife_Security,,,C
-barney/hearsomething.wav,#barneyhearsomething,Blue,,#HalfLife_Security,,,C
+barney/haybuddy.wav,#haybuddy,Blue,,#HalfLife_Security,,,C 										//Added missing line, may be unused
+barney/hayfella.wav,#hayfella,Blue,,#HalfLife_Security,,,C 										//Added missing line, may be unused
+barney/hearsomething.wav,#barneyhearsomething,Blue,,#HalfLife_Security,,,C 						//Changed tag to more easily differentiate from Scientist's line
 barney/hearsomething2.wav,#hearsomething2,Blue,,#HalfLife_Security,,,C
 barney/hellonicesuit.wav,#hellonicesuit,Blue,,#HalfLife_Security,,,C
 barney/helpothers.wav,#helpothers,Blue,,#HalfLife_Security,,,C
@@ -885,7 +884,7 @@ barney/howdy.wav,#howdy,Blue,,#HalfLife_Security,,,C
 barney/howyoudoing.wav,#howyoudoing,Blue,,#HalfLife_Security,,,C
 barney/icanhear.wav,#icanhear,Blue,,#HalfLife_Security,,,C
 barney/iguess.wav,#iguess,Blue,,#HalfLife_Security,,,C
-barney/illwait.wav,#barneyillwait,Blue,,#HalfLife_Security,,,C
+barney/illwait.wav,#barneyillwait,Blue,,#HalfLife_Security,,,C 									//Changed tag to more easily differentiate from Scientist's line
 barney/imdead.wav,#imdead,Blue,,#HalfLife_Security,,,C
 barney/imhit.wav,#imhit,Blue,,#HalfLife_Security,,,C
 barney/imwithyou.wav,#imwithyou,Blue,,#HalfLife_Security,,,C
@@ -904,12 +903,12 @@ barney/nope.wav,#nope,Blue,,#HalfLife_Security,,,C
 barney/nosir.wav,#nosir,Blue,,#HalfLife_Security,,,C
 barney/notelling.wav,#notelling,Blue,,#HalfLife_Security,,,C
 barney/noway.wav,#noway,Blue,,#HalfLife_Security,,,C
-barney/openfire(e50),#openfire(e50),Blue,,#HalfLife_Security,,,C
-barney/openfire(s50),#openfire(s50),Blue,,#HalfLife_Security,,,C
+barney/openfire(e50),#openfire(e50),Blue,,#HalfLife_Security,,,C 								//Need to test, these lines are different in-game
+barney/openfire(s50),#openfire(s50),Blue,,#HalfLife_Security,,,C 								//Need to test, these lines are different in-game
 barney/realbadwound.wav,#realbadwound,Blue,,#HalfLife_Security,,,C
 barney/rightway.wav,#rightway,Blue,,#HalfLife_Security,,,C
 barney/seeya.wav,#seeya,Blue,,#HalfLife_Security,,,C
-barney/slowingyoudown.wav,#barneyslowingyou,Blue,,#HalfLife_Security,,,C
+barney/slowingyoudown.wav,#barneyslowingyou,Blue,,#HalfLife_Security,,,C 						//Changed tag to more easily differentiate from Scientist's line
 barney/somethingdied.wav,#somethingdied,Blue,,#HalfLife_Security,,,C
 barney/somethingmoves.wav,#somethingmoves,Blue,,#HalfLife_Security,,,C
 barney/somethingstinky.wav,#somethingstinky,Blue,,#HalfLife_Security,,,C
@@ -918,8 +917,8 @@ barney/soundsright.wav,#soundsright,Blue,,#HalfLife_Security,,,C
 barney/standback.wav,#standback,Blue,,#HalfLife_Security,,,C
 barney/standguard.wav,#standguard,Blue,,#HalfLife_Security,,,C
 barney/stench.wav,#stench,Blue,,#HalfLife_Security,,,C
-barney/stop1.wav,#barneystop1,Blue,,#HalfLife_Security,,,C
-barney/stop2.wav,#barneystop2,Blue,,#HalfLife_Security,,,C
+barney/stop1.wav,#barneystop1,Blue,,#HalfLife_Security,,,C 										//Changed tag to more easily differentiate from Scientist's line
+barney/stop2.wav,#barneystop2,Blue,,#HalfLife_Security,,,C 										//Changed tag to more easily differentiate from Scientist's line
 barney/stophere.wav,#stophere,Blue,,#HalfLife_Security,,,C
 barney/survive.wav,#survive,Blue,,#HalfLife_Security,,,C
 barney/targetpractice.wav,#targetpractice,Blue,,#HalfLife_Security,,,C
@@ -1100,9 +1099,9 @@ holo/tr_holo_injury.wav,#tr_holo_injury,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_leadguard.wav,#tr_holo_leadguard,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_usetrain.wav,#tr_holo_usetrain,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_done.wav,#tr_holo_done,Orange,,#HalfLife_Hologram,,,C
-holo/tr_ba_lightson.wav,#tr_ba_lightson,Blue,,#HalfLife_Security,,,C
-holo/tr_ba_use.wav,#tr_ba_use,Blue,,#HalfLife_Security,,,C
-holo/tr_ba_unuse.wav,#holo/tr_ba_unuse,Blue,,#HalfLife_Security,,,C
+holo/tr_ba_lightson.wav,#tr_ba_lightson,Blue,,#HalfLife_Security,,,C 							//Added missing Hazard Course line, may be unused
+holo/tr_ba_use.wav,#tr_ba_use,Blue,,#HalfLife_Security,,,C 										//Added missing Hazard Course line, may be unused
+holo/tr_ba_unuse.wav,#holo/tr_ba_unuse,Blue,,#HalfLife_Security,,,C 							//Added missing Hazard Course line, may be unused
 nihilanth/nil_thieves.wav,#nil_thieves,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
 nihilanth/nil_comes.wav,#nil_comes,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
 nihilanth/nil_done.wav,#nil_done,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
