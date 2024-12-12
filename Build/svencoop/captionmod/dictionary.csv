@@ -186,6 +186,27 @@ C3A2_7,#C3A2_7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 C3A2_target,#C3A2_target,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 	//Added line
 C3A2_portal,#C3A2_portal,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 	//Added line
 C3A2_core,#C3A2_core,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT 		//Added line
+//CTR0,#CTR0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR1,#CTR1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR2,#CTR2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR3,#CTR3,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR4,#CTR4,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR5,#CTR5,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR6,#CTR6,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR7,#CTR7,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR8,#CTR8,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR9,#CTR9,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT                //Added line
+//CTR10,#CTR10,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR11,#CTR11,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR12,#CTR12,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR13,#CTR13,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR14,#CTR14,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR15,#CTR15,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR16,#CTR16,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR17,#CTR17,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR18,#CTR18,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR19,#CTR19,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
+//CTR20,#CTR20,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT              //Added line
 NA0,#NA0,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 NA1,#NA1,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
 NA2,#NA2,SweetRed,,#HalfLife_VOX,,,C IGNORE_DISTANCE_LIMIT
@@ -288,6 +309,8 @@ HEV_A7,#HEV_A7,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_A8,#HEV_A8,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_A9,#HEV_A9,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_A10,#HEV_A10,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+//HEV_DEAD0,#HEV_DEAD0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
+//HEV_DEAD1,#HEV_DEAD1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_MED0,#HEV_MED0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_MED1,#HEV_MED1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_MED2,#HEV_MED2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
@@ -317,32 +340,6 @@ HEV_HLTH5,#HEV_HLTH5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_HLTH6,#HEV_HLTH6,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_SHOCK,#HEV_SHOCK,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_FIRE,#HEV_FIRE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_DET2,#HEV_DET2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_DET1,#HEV_DET1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_DET0,#HEV_DET0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_D00,#HEV_D00,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
-HEV_D01,#HEV_D01,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
-HEV_0P,#HEV_0P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_1P,#HEV_1P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_2P,#HEV_2P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_3P,#HEV_3P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_4P,#HEV_4P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_5P,#HEV_5P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_6P,#HEV_6P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_7P,#HEV_7P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_8P,#HEV_8P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_9P,#HEV_9P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_10P,#HEV_10P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_11P,#HEV_11P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_12P,#HEV_12P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_13P,#HEV_13P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_14P,#HEV_14P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_15P,#HEV_15P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_16P,#HEV_16P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_17P,#HEV_17P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_18P,#HEV_18P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_19P,#HEV_19P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
-HEV_AMO0,#HEV_AMO0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_AIM_ON,#HEV_AIM_ON,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_AIM_OFF,#HEV_AIM_OFF,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_BATTERY,#HEV_BATTERY,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
@@ -369,6 +366,29 @@ HEV_AGRENADE,#HEV_AGRENADE,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT /
 HEV_EGONPOWER,#HEV_EGONPOWER,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_C1t,#HEV_C1t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_C13t,#HEV_C13t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
+HEV_D00,#HEV_D00,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
+HEV_D01,#HEV_D01,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
+HEV_0P,#HEV_0P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_1P,#HEV_1P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_2P,#HEV_2P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_3P,#HEV_3P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_4P,#HEV_4P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_5P,#HEV_5P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_6P,#HEV_6P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_7P,#HEV_7P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_8P,#HEV_8P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_9P,#HEV_9P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_10P,#HEV_10P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_11P,#HEV_11P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_12P,#HEV_12P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_13P,#HEV_13P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_14P,#HEV_14P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_15P,#HEV_15P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_16P,#HEV_16P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_17P,#HEV_17P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_18P,#HEV_18P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_19P,#HEV_19P,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_AMO0,#HEV_AMO0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_V0,#HEV_V0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_V1,#HEV_V1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_E0,#HEV_E0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
@@ -381,6 +401,9 @@ HEV_F10t,#HEV_F10t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added l
 HEV_F15t,#HEV_F15t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_F20t,#HEV_F20t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_F30t,#HEV_F30t,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
+HEV_DET0,#HEV_DET0,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_DET1,#HEV_DET1,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
+HEV_DET2,#HEV_DET2,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT
 HEV_DET3,#HEV_DET3,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_DET4,#HEV_DET4,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_DET5,#HEV_DET5,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
@@ -392,6 +415,7 @@ holo/tr_sci_hardlynoticed.wav,#tr_sci_hardlynoticed,Gray,,#HalfLife_Scientist,,,
 holo/tr_sci_nextstation.wav,#tr_sci_nextstation,Gray,,#HalfLife_Scientist,,,C
 holo/tr_sci_use.wav,#tr_sci_use,Gray,,#HalfLife_Scientist,,,C
 holo/tr_sci_unuse.wav,#tr_sci_unuse,Gray,,#HalfLife_Scientist,,,C
+holo/tr_ba_lightson.wav,#tr_ba_lightson,Blue,,#HalfLife_Security,,,C //Added line
 holo/tr_ba_use.wav,#tr_ba_use,Blue,,#HalfLife_Security,,,C
 holo/tr_ba_unuse.wav,#tr_ba_unuse,Blue,,#HalfLife_Security,,,C
 scientist/absolutely.wav,#absolutely,Gray,,#HalfLife_Scientist,,,C
@@ -1123,9 +1147,6 @@ holo/tr_holo_injury.wav,#tr_holo_injury,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_leadguard.wav,#tr_holo_leadguard,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_usetrain.wav,#tr_holo_usetrain,Orange,,#HalfLife_Hologram,,,C
 holo/tr_holo_done.wav,#tr_holo_done,Orange,,#HalfLife_Hologram,,,C
-holo/tr_ba_lightson.wav,#tr_ba_lightson,Blue,,#HalfLife_Security,,,C //Added line
-holo/tr_ba_use.wav,#tr_ba_use,Blue,,#HalfLife_Security,,,C //Added line
-holo/tr_ba_unuse.wav,#holo/tr_ba_unuse,Blue,,#HalfLife_Security,,,C //Added line
 nihilanth/nil_thieves.wav,#nil_thieves,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
 nihilanth/nil_comes.wav,#nil_comes,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
 nihilanth/nil_done.wav,#nil_done,Yellow,,#HalfLife_Nihilanth,,,C IGNORE_DISTANCE_LIMIT
