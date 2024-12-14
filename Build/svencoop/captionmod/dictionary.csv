@@ -583,6 +583,9 @@ scientist/greetings2.wav,#greetings2,Gray,,#HalfLife_Scientist,,,C
 scientist/headcrab.wav,#headcrab,Gray,,#HalfLife_Scientist,,,C
 scientist/heal1.wav,#heal1,Gray,,#HalfLife_Scientist,,,C
 scientist/heal2.wav,#heal2,Gray,,#HalfLife_Scientist,,,C
+SC_HEAL2,#SC_HEAL2,Gray,,#HalfLife_Scientist,,,C
+SC_HEAL3,#SC_HEAL3,Gray,,#HalfLife_Scientist,,,C
+SC_HEAL4,#SC_HEAL4,Gray,,#HalfLife_Scientist,,,C
 scientist/heal3.wav,#heal3,Gray,,#HalfLife_Scientist,,,C
 scientist/heal4.wav,#heal4,Gray,,#HalfLife_Scientist,,,C
 scientist/heal5.wav,#heal5,Gray,,#HalfLife_Scientist,,,C
