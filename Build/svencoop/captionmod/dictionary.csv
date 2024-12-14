@@ -875,12 +875,12 @@ barney/c2a1_ba_hub2a.wav,#c2a1_ba_hub2a,Blue,,#HalfLife_Security,,,C
 barney/c2a1_ba_again.wav,#c2a1_ba_again,Blue,,#HalfLife_Security,,,C 	//Added line
 barney/c2a2_ba_launch.wav,#c2a2_ba_launch,Blue,,#HalfLife_Security,,,C
 barney/c2a3_ba_assn.wav,#c2a3_ba_assn,Blue,,#HalfLife_Security,,,C
-barney/c2a4_ba_longnite.wav,#c2a4_ba_teach,Blue,,#HalfLife_Security,,,C //Added line
-barney/c2a4_ba_steril.wav,#c2a4_ba_arg1a,Blue,,#HalfLife_Security,,,C 	//Added line
-barney/c2a4_ba_teach.wav,#c2a4_ba_arg3a,Blue,,#HalfLife_Security,,,C 	//Added line
-barney/c2a4_ba_arg1a.wav,#c2a4_ba_arg5a,Blue,,#HalfLife_Security,,,C 	//Added line
-barney/c2a4_ba_arg3a.wav,#c2a4_ba_longnite,Blue,,#HalfLife_Security,,,C //Added line
-barney/c2a4_ba_arg5a.wav,#c2a4_ba_steril,Blue,,#HalfLife_Security,,,C 	//Added line
+barney/c2a4_ba_longnite.wav,#c2a4_ba_longnite,Blue,,#HalfLife_Security,,,C //Added line
+barney/c2a4_ba_steril.wav,#c2a4_ba_steril,Blue,,#HalfLife_Security,,,C 	//Added line
+barney/c2a4_ba_teach.wav,#c2a4_ba_teach,Blue,,#HalfLife_Security,,,C 	//Added line
+barney/c2a4_ba_arg1a.wav,#c2a4_ba_arg1a,Blue,,#HalfLife_Security,,,C 	//Added line
+barney/c2a4_ba_arg3a.wav,#c2a4_ba_arg3a,Blue,,#HalfLife_Security,,,C //Added line
+barney/c2a4_ba_arg5a.wav,#c2a4_ba_arg5a,Blue,,#HalfLife_Security,,,C 	//Added line
 barney/c2a4_ba_1tau.wav,#c2a4_ba_1tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_3tau.wav,#c2a4_ba_3tau,Blue,,#HalfLife_Security,,,C
 barney/c2a4_ba_5tau.wav,#c2a4_ba_5tau,Blue,,#HalfLife_Security,,,C
