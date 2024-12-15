@@ -434,6 +434,7 @@ scientist/asexpected.wav,#asexpected,Gray,,#HalfLife_Scientist,,,C
 scientist/beenaburden.wav,#beenaburden,Gray,,#HalfLife_Scientist,,,C
 scientist/beverage.wav,#beverage,Gray,,#HalfLife_Scientist,,,C
 scientist/bloodsample.wav,#bloodsample,Gray,,#HalfLife_Scientist,,,C
+scientist/c1a0_sci_mumble.wav,#c1a0_sci_mumble,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a0_sci_bigday.wav,#c1a0_sci_bigday,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a0_sci_crit1a.wav,#c1a0_sci_crit1a,Gray,,#HalfLife_Scientist,,,C
 scientist/c1a0_sci_crit2a.wav,#c1a0_sci_crit2a,Gray,,#HalfLife_Scientist,,,C
@@ -681,7 +682,7 @@ scientist/sci_die4.wav,#sci_die4,Gray,,#HalfLife_Scientist,,,C
 scientist/sci_dragoff.wav,#sci_dragoff,Gray,,#HalfLife_Scientist,,,C
 scientist/sci_fear1.wav,#sci_fear1,,,,,,C
 SC_SCREAM0,#sci_fear1,Gray,,#HalfLife_Scientist,,,C
-scientist/sci_fear2.wav,#sci_fear2,,,,,,C
+SC_FEAR2,#SC_FEAR2,Gray,,#HalfLife_Scientist,,,C
 SC_SCREAM1,#sci_fear2,Gray,,#HalfLife_Scientist,,,C
 scientist/sci_fear3.wav,#sci_fear3,,,,,,C
 SC_SCREAM2,#sci_fear3,Gray,,#HalfLife_Scientist,,,C
